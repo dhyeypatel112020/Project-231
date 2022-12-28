@@ -1,0 +1,8 @@
+select * from customers;
+
+select * from suppliers;
+
+select * from company_orders where details;
+
+select * from customers where country="Mexico";
+
